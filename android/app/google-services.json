@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660493423605",
+    "project_id": "invome-et2602",
+    "storage_bucket": "invome-et2602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660493423605:android:6d67c77a6eec8402cd86bc",
+        "android_client_info": {
+          "package_name": "com.invome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660493423605-59q3gvkpm9da2ckld2danqo4nve8ugfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invome",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "660493423605-8atbeai0102cg2rmkr7jiv940mki6knm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0UVOQgYXlZtjERy_1R_yqOamVtGFnnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660493423605-8atbeai0102cg2rmkr7jiv940mki6knm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
